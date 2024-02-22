@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Front",
+        "abb": "F"
+    },
+    {
+        "name": "Front'",
+        "abb": "F'"
+    },
+    {
+        "name": "Down",
+        "abb": "D"
+    },
+    {
+        "name": "Down'",
+        "abb": "D'"
+    },
+    {
+        "name": "Up",
+        "abb": "U"
+    },
+    {
+        "name": "Up'",
+        "abb": "U'"
+    },
+    {
+        "name": "Back",
+        "abb": "B"
+    },
+    {
+        "name": "Back'",
+        "abb": "B'"
+    },
+    {
+        "name": "Left",
+        "abb": "L"
+    },
+    {
+        "name": "Left'",
+        "abb": "L'"
+    },
+    {
+        "name": "Right",
+        "abb": "R"
+    },
+    {
+        "name": "Right'",
+        "abb": "R'"
+    }
+    
+]
